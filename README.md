@@ -2,4 +2,4 @@
 
 ## Table of Contents 
 
- Week1: IntroPlan 
+ Week1: [Intro/Plan](/entry1.md/) 
