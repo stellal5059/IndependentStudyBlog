@@ -6,6 +6,25 @@
 
 ---
 # What is EarSketch
----
 
 * EarSketch is a program that uses languages such as Python and/or JavaScript to create music using music files saved in the cloud. When i first loaded up Earsketch I was going to orignally create and learn with Python, however in class we never learned Python. Throughout the 4 years of the Software Engineering Program we have gone through many coding languages and one of them happened to be JavaScript.
+
+---
+# Some "A-ha" Moments I had
+
+ While starting the tutorial on EarSketch there was intial code when you created a new page:
+
+```
+init();
+setTempo(120);
+
+
+finish();
+```
+ What this means is that initally when it starts it's going to run whatever is between the setTempo and finish, which i feel means that the 120 in the parenthesis is two minutes. I haven't gotten that far into my study to exactly know what that means, however that is my guess.
+
+---
+# Take-Away(s) / Strategies
+
+ * Read closely, you can easily miss something important if you just skim it
+ * Watch as many videos as you can, through the website and on youtube if you have to, someone talking it through could make more sense than you just reading 
