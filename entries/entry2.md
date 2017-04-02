@@ -19,3 +19,10 @@
 * There are many EarSketch specific method such as:
         * `setTempo()`: Once there is a number within the parenthesis, the computer will know how fast to play the music displayed in the DAW
         * `fitMedia()`: used to place audio clips into the DAW
+            * `fitMedia(Track, Track#, startMeasure, endMeasure);` <-- order its supposed to go in 
+---
+## Rhythm
+* This is a term used to describe the arrangement of sounds as music flows
+    * This is a term used in music along with:
+        * Tempo: The length of a beat, measured in bpm (beats per minute)
+    ![Measure-Diagran](/enties/barStructure-cropped.png)
