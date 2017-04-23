@@ -5,3 +5,4 @@
 ### Week1: [Intro/Plan](/entries/entry1.md/) 
 ### Week2: [Getting to know EarSketch](/entries/entry2.md)
 ### Week3: [Fixing Errors & Effects](/entries/entry3.md)
+### Week4: [Copyright](/entries/entry4.md)
