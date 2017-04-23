@@ -9,10 +9,14 @@ Copyright covers ownership for work and tells others what they can and cannot do
 ## Basics
 
 ~ Once you create something in your mind such as a song, a video idea, or any other form of art you have ownership of it, that is how you gain automatic copyright. With this copyright in the US you are entitled to 6 specific rights such as 
+
 ~ make copies, 
-~create something based of the original (stories, trailer, video) but it must come from you
-~the right to perform publicly 
-~distribute the copies (via CD’s and digitally)
+
+~ create something based of the original (stories, trailer, video) but it must come from you
+
+~ the right to perform publicly 
+
+~ distribute the copies (via CD’s and digitally)
 
 ~ When creating something beautiful or using somebody else's art piece what you must be careful of copyright infringement, this is when someone violates the rights of your work (Illegally downloading). The only exception is when somebody else makes a cover of it then they get copyright of their version
 
@@ -25,16 +29,24 @@ Copyright covers ownership for work and tells others what they can and cannot do
 
 ### Licensing and Free Culture 
 ~ Permissive licenses = free culture license; by sharing and allowing others to use your work you contributing to the pool of art and can inspire more artists
+
 ~ Common free license place we have used:
+
 ~ Creative Commons: lets the create specify what they want to keep and give away; by default copyright is “all rights reserved”, you keep all the rights; lets you specify “some rights reserved” ← you choose which ones you keep
+
 ~ Earsketch allows you to add Creative Commons licenses to your music via the Share Window
 
 ## Fair Use 
 ~Four factors used in determination about fair use
+
 ~The purpose of the use: if it’s for educational and not commercial use or critical commentary than it is most likely fair use 
+
 ~The nature of the copyrighted work: Fair use is less likely if the original work is published rather than unpublished; something on the internet is considered published
+
 ~Amount used: as you use more content from an original work, it is less likely to be fair use
+
 ~Market harm: A use is less likely to be fair use if it eats into a potential market from the original; hard to determine through sampling
+
 ~ Fair use is one way that people are allowed to make new, works based off copyrighted materials
 
 # Take-Aways
