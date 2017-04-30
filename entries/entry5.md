@@ -1,38 +1,7 @@
-#Finishing up Unit 1
----
-## Self-Assessment
 
-~ This is something that we all do usually at the end of the year or the end of a great project. We take the time to look over our code before doing anything with it whether it’s deploying it on heroku or making it live through C9. Usually when we self-assess our code we look for correctness and completeness.
-
-~When you self-assess one of your own projects there are certain things you would have to take into consideration:
-
-	~ Is there any syntax errors the computer cannot read/understand
-	
-	~ If you were to give this to someone else would they be able to understand the purpose of the project without having to press run that means is the code readable along with the comments
-	
-	~Does my code do what it is supposed to do?
-	
-	~Is my code complete?
-	
-	~Does my code satisfy the project or assignment goals?
-
-~ Consider Both the Objective(facts) and subjective(how would a human look at it) perspectives 
-
-~Evaluating correctness of a code focuses mainly on what the code does, correct code is free of bugs and errors(if done correctly)
-
-### Self-Assessment in Earsketch
-~ When creating a song, if there is a lack in sections (such as transitions), the listener will be able to notice due to to the very abrupt changes
-
-~Correctness and Completeness of a code is determined by the way it runs, does it run the way it’s supposed to?
-
----
-
-# Going through Unit 2
+# Starting Unit 2
 
 ~ When computer scientists and software engineers work hard on their code there main goal is to make it clear and concise (“work smarter not harder” ~Mr.Mueller). Going through the 4 years in software engineering the one thing we were always taught was to work smarter not harder. The more efficient the code and the easier it is to understand the easier it is to make changes and find bugs if necessary. 
- 
-        Taken from my notes → 
-
 
 ---
 ## Looping
@@ -55,10 +24,6 @@ Components in a `for-loop`
 ~Initialization: The variable at the start of the loop, this will be set once the loop starts and will keep track of how many times the loop has run. Will help when checking the status of the conditional.
 
 ~Loop condition: Checks whether the code should continue or not; will allow the code to continue once the loop has finished. 
-
----
-### Interpreting a script
-~ The way a script is read is the order it will run, read line by line, top to bottom, once the line gets to the end of the code then it will jump back to the start of the code and will be read the same way; aka Control Flow
 
 ---
 ### Sections and Form
@@ -86,6 +51,7 @@ Musical Form and Custom Functions
     ~Click on “Add Your Own Sound”
         ~Choose the file you would like to upload from your computer
         ~Quick Record allows you to record clips directly to your library
+        
 ### Processes and Memory
 ~ The Central Processing unit (CPU) is the part of the computer that is given the code (insructions) on what to do and how to run, this is a complex electronic circuitry that is able to run this set of instructions. 
 
@@ -101,17 +67,6 @@ Musical Form and Custom Functions
 
 ## Beat Patterns with Strings
 ~can use makeBeat() to create rhythmic patterns; aka beat patterns; A character is a single unit of informations, this can be a letter, number, whitespace, punctuation or symbol. The order of the characters allow you to be able to music and clips.
-
-### makeBeat()
-~makeBeat() takes in four arguments:
-
-	~Clip Name
-	~Track #
-	~ Measure Number: makeBeat() only requires the first measure, the length will determine the end measure
-    ~Beat String 
-    
-~Creating an interesting beat is important and you would like to have control over how many times it plays throughout the song. Rather than making a line for every measure you would like to have it on you can use a for-loop
-
 
 ### Return Statements
 ~Return statements are in almost every coding language out there, what it does is it gives back whatever it is attached to, usually put at the end of the code. 
@@ -137,3 +92,35 @@ Musical Form and Custom Functions
 # Take-Aways
 
 * When taking notes put stuff into your own words, if you were to copy word for word you would not be able to actually understand what you're learning
+
+* "Work Smarter Not Harder"-Mr.Mueller, this is something that we have been told since pretty much the beginning of our Software Journey. It was a bit unclear but after taking a look at different ways to do the same tasks, there is always an easier way to do things. Always do things the more efficient way, in the end you will be able to understand it, those looking at it will know what it means, and in coding terms when you get to the debugging part of the project it will be easier to find and destroy the "bugs" in the code.
+
+### Adding onto Take-Aways:
+
+## Self-Assessment
+
+~ This is something that we all do usually at the end of the year or the end of a great project. We take the time to look over our code before doing anything with it whether it’s deploying it on heroku or making it live through C9. Usually when we self-assess our code we look for correctness and completeness.
+
+~When you self-assess one of your own projects there are certain things you would have to take into consideration:
+
+	~ Is there any syntax errors the computer cannot read/understand
+	
+	~ If you were to give this to someone else would they be able to understand the purpose of the project without having to press run that means is the code readable along with the comments
+	
+	~Does my code do what it is supposed to do?
+	
+	~Is my code complete?
+	
+	~Does my code satisfy the project or assignment goals?
+
+~ Consider Both the Objective(facts) and subjective(how would a human look at it) perspectives 
+
+~Evaluating correctness of a code focuses mainly on what the code does, correct code is free of bugs and errors(if done correctly)
+
+### Self-Assessment in Earsketch
+~ When creating a song, if there is a lack in sections (such as transitions), the listener will be able to notice due to to the very abrupt changes
+
+~Correctness and Completeness of a code is determined by the way it runs, does it run the way it’s supposed to?
+
+ 
+ 
