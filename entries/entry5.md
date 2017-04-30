@@ -95,7 +95,8 @@ Musical Form and Custom Functions
 
 * "Work Smarter Not Harder"-Mr.Mueller, this is something that we have been told since pretty much the beginning of our Software Journey. It was a bit unclear but after taking a look at different ways to do the same tasks, there is always an easier way to do things. Always do things the more efficient way, in the end you will be able to understand it, those looking at it will know what it means, and in coding terms when you get to the debugging part of the project it will be easier to find and destroy the "bugs" in the code.
 
-### Adding onto Take-Aways:
+
+* Always self-Assess your code or anything you do because it will help you with bugs and allow you to think to yourself, Can I show this to my future boss? If you're thinking No then you have to fix something in your work. Following this are some notes on how to properly Self Assess
 
 ## Self-Assessment
 
