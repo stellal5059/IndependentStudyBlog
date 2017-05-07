@@ -7,3 +7,4 @@
 ### Week3: [Fixing Errors & Effects](/entries/entry3.md)
 ### Week4: [Copyright](/entries/entry4.md)
 ### Week5: [Unit2](/entries/entry5.md)
+### Week6: [Music and Basics](/entries/entry6.md)
