@@ -9,7 +9,7 @@ Week 6 Blog Entry
 ~The best part about repetition is that is will allow you to be more into the song rather than just listening. The more you listen to a song, the more you notice the small details and are more likely to get hooked in, as well as a good hook you need a good form of repetition to keep the listener interested.
 
 
- ![RepeatSymbol](../IndependentStudyBlog/entries/repeat.jpg) ← The Repeat Sign
+ ![RepeatSymbol](repeat.jpg) ← The Repeat Sign
 
 #### Contrast
 
@@ -69,7 +69,7 @@ Syntax for console input = `readInput()`
 
 Generates the random number and random sound when you press run, there will be a new song and create that “in the moment” feel
 
-![Randomness](../IndependentStudyBlog/entries/randomness.png) 
+![Randomness](randomness.png) 
 
 ---
 
