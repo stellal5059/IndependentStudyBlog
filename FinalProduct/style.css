@@ -1,12 +1,20 @@
 body{
     text-align:center;
     background: linear-gradient(to right, #33ccff , #ffb366);
+  
 }
 #menuBar{
     color: black;
-
+    font-size:25px;
+    /*display: block;*/
+    /*position: fixed;*/
+  
 }
 p{
-    font-family: "Syncopate", "Arial";
+    font-family: "Times-New Roman";
     color: black;
+    font-size: 35px;
+    margin-right: 100px;
+    margin-left: 100px;
+    
 }
