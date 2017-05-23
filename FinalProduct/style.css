@@ -8,13 +8,13 @@ body{
     font-size:25px;
     /*display: block;*/
     /*position: fixed;*/
-  
+    /*padding-bottom: 50%*/
 }
 p{
     font-family: "Times-New Roman";
     color: black;
-    font-size: 35px;
+    font-size: 25px;
     margin-right: 100px;
     margin-left: 100px;
-    
+  
 }
