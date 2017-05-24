@@ -8,13 +8,23 @@
 </head>
 
 <body>
+  <audio id="home" src="HomeSound.mp3"></audio>
+  <audio id="Earsketch" src="KnowingEarsketch.mp3"></audio>
+  <audio id="fitMedia" src="fitMediaSound.mp3"></audio>
+  <audio id="debugging" src="debugging.mp3"></audio>
   <div id="menuBar">
-
-    <a href="SongTutorial.html" onclick="">Home</a>
-    <a href="GettingToKnowTheWorkspace.html" onclick="">Getting to Know Earsketch</a>
-    <a href="fitMedia.html" onclick="">Using fitMedia()</a>
+    <div>
+      <a href="SongTutorial.html" onclick="document.getElementById('home').play()">Home</a>
+    </div>
+    <div><a href="GettingToKnowTheWorkspace.html" onclick="document.getElementById('Earsketch').play()">Getting to Know Earsketch</a>
+    </div>
+    <div>
+    <a href="fitMedia.html" onclick="document.getElementById('fitMedia').play()">Using fitMedia()</a>
+    </div>
     <a href="Effects.html" onclick="">Effects</a>
-    <a href="Debugging.html" onclick="">Debugging</a>
+    <div>
+    <a href="Debugging.html" onclick="document.getElementById('debugging').play()">Debugging</a>
+    </div>
     <a href="FinalProduct.html" onclick=""> Final Product</a>
     <a href="https://github.com/stellal5059/IndependentStudyBlog" onclick="">Blog</a>
     <!--Opens up new window to Github-->
